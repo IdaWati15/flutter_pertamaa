@@ -18,4 +18,3 @@ samples, guidance on mobile development, and a full API reference.
 Berikut Hasilnya : 
 blob:https://web.whatsapp.com/dceb99e8-901d-4901-b82d-110bc66bf0b2
 
-blob:https://web.whatsapp.com/11f7877f-2a5c-44fe-97fe-da54a6cbe55c
